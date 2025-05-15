@@ -59,8 +59,8 @@ pip install -r requirements.txt
 
 Shows directors with the most contributions to Netflix.
 
-![Top Directors]([15topdirectbar](https://github.com/user-attachments/assets/832f9387-3dce-430c-8c4a-f219b27bfce8)
-)
+![Top Directors]![Top Directors](images/15topdirectbar.png)
+
 
 ---
 
