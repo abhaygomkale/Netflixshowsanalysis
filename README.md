@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 Shows directors with the most contributions to Netflix.
 
-![Top Directors]![Top Directors](images/15topdirectbar.png)
+![Top Directors](images/15topdirectbar.png)
 
 
 ---
@@ -68,7 +68,7 @@ Shows directors with the most contributions to Netflix.
 
 Bar chart showing the countries that produced the most Netflix content.
 
-![Country-wise Movie Count]("C:\Users\om\Desktop\countmpviebar.jpg")
+![Country-wise Movie Count](images/movie_country_barh.png)
 
 
 
